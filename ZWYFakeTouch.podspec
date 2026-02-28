@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ZWYFakeTouch'
-  s.version          = '0.1.0'
+  s.version          = '0.1.2'
   s.summary          = 'Simulate touch events for iOS［User mode］'
 
   s.description      = <<-DESC
